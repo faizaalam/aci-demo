@@ -54,6 +54,11 @@ $namespace: true;
 }
 
 /* Body */
+.italic{
+  font-style: italic !important;
+  font-weight: bolder !important;
+  color: white;
+}
 .mid-body {
   margin-bottom: 18em;
 }
@@ -77,10 +82,11 @@ h3{
    color: white;
  }
  h3{
-   color: #44a006;
-   opacity: 0.77;
+   color: white;
  }
 }
+
+
 
 
 /* ---------------Footer ------------------ */
@@ -94,12 +100,28 @@ h3{
 }
 
 /* ----------------Header ---------------- */
-.brand-name , .brand-name h3 , .w-logo, .menu-product-page{
+.brand-name , .brand-name h2 , .w-logo, .menu-product-page{
   display: inline-block;
 }
-.brand-name h3{
+.brand-name h2{
   color: white;
-  font-weight: bold;
+  font-weight: bolder;
+  top: 11px;
+  position: absolute;
+}
+
+.middle {
+  text-align: center;
+
+position: absolute;
+left: 50%;
+
+}
+
+  .middle-heading {
+      position: absolute;
+      right: 6%;
+      top: 10px;
 }
 #logo{
   width: 25%;
@@ -1973,6 +1995,10 @@ hr {
       bottom: 12%;
       left: 8%;
       font-weight: bold;
+    }
+    .product-name.green{
+      color: #44a006 !important;
+      opacity: 0.77 !important;
     }
     .lookfor {
         font-family: 'MuseoSans500';
