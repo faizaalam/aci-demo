@@ -12,7 +12,7 @@ new WOW().init();
 
 $('.team-pic').hover(function() {
     $(this).children(".overlay").toggleClass('appear-about');
-    $(this).children("h5").toggleClass('appear-about');
+    $(this).children("p").toggleClass('appear-about');
 });
 
 
@@ -81,12 +81,12 @@ function initialize() {
         mapTypeId: google.maps.MapTypeId.ROADMAP
     }
     var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
-    // var image = '../images/map-pin.png';
+    var image = '/images/aci/point.png';
     var myLatLng = new google.maps.LatLng(23.769584, 90.404668);
     var beachMarker = new google.maps.Marker({
         position: myLatLng,
         map: map,
-    
+        icon : image
     });
 
     map.set('styles', [{
@@ -203,6 +203,19 @@ $(function() {
 $("#arrow-link").click(function() {
     $('html, body').animate({
         scrollTop: $("#about").offset().top
+    }, 2000);
+});
+
+$("#about-aci-menu-link").click(function() {
+    $(".overlay2.open").removeClass('open');
+    $('html, body').animate({
+        scrollTop: $("#about-aci").offset().top
+    }, 2000);
+});
+$("#products-menu-link").click(function() {
+    $(".overlay2.open").removeClass('open');
+    $('html, body').animate({
+        scrollTop: $("#products").offset().top
     }, 2000);
 });
 
