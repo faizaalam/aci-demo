@@ -1,0 +1,264 @@
+//.m-menu
+    a(href="#case-studies") Case Studies |
+    a(href="#cap") Capabilities |
+    a(href="#client") Clients
+
+.work_pic#case-studies
+   .row.full-width.collapse
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+            a(href="#")
+              p.product-name ACI SEED
+             .workhover
+               .describe
+                 p.lookfor ACI SEED
+                 p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                 .overlay-button
+                    a(class='button product-button', href='#') ENTER SITE
+
+             img(src='/images/aci/aci-seed.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+           a(href="#")
+            p.product-name  ACI FERTILIZER
+            .workhover
+              .describe
+                p.lookfor ACI FERTILIZER
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-fertilizer.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+           a(href="#")
+            p.product-name ACI CROP CARE
+            .workhover
+              .describe
+                p.lookfor ACI CROP CARE
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-crop-care.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+            a(href="#")
+              p.product-name ACI CROPEX
+             .workhover
+              .describe
+                p.lookfor ACI CROPEX
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-cropex.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+           a(href="#")
+            p.product-name ACI MOTORS
+            .workhover
+               .describe
+                  p.lookfor ACI MOTORS
+                  p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                  .overlay-button
+                     a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-motors.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+           a(href="#")
+            p.product-name ACI ANIMAL HEALTH
+            .workhover
+              .describe
+                p.lookfor ACI ANIMAL HEALTH
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-animal-health.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+          a(href="#")
+            p.product-name BUSINESS DEVELOPMENT & PARTNERSHIP
+            .workhover
+              .describe
+                p.lookfor BUSINESS DEVELOPMENT & PARTNERSHIP
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-business development & partnerships.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+          a(href="#")
+            p.product-name ACI PREMIAFLEX
+            .workhover
+               .describe
+                  p.lookfor ACI PREMIAFLEX
+                  p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                  .overlay-button
+                     a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-premiaflex.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+          a(href="#")
+            p.product-name ASRBC
+            .workhover
+              .describe
+                p.lookfor ASRBC
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-asrbc.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+           a(href="#")
+            p.product-name ACI-GODREJ
+            .workhover
+              .describe
+                p.lookfor ACI-GODREJ
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-godrej.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+          a(href="#")
+            p.product-name GROWING BANGLADESH
+            .workhover
+               .describe
+                 p.lookfor GROWING BANGLADESH
+                 p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                 .overlay-button
+                    a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-growing-bangladesh.jpg')
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+          a(href="#")
+            p.product-name.green BIOLIFE
+            .workhover
+              .describe
+                p.lookfor BIOLIFE
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-biolife.png')
+
+
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+          a(href="#")
+            p.product-name CSR
+            .workhover
+              .describe
+                p.lookfor CSR
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-csr.jpg')
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+          a(href="#")
+            p.product-name COMMUNICATION, EVENTS & PR
+            .workhover
+              .describe
+                p.lookfor COMMUNICATION, EVENTS & PR
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-events.jpg')
+        .small-12.medium-4.large-4.xlarge.columns.work-prof
+          a(href="#")
+            p.product-name JOBS
+            .workhover
+              .describe
+                p.lookfor JOBS
+                p.product-description Lorem Ipsum is simply dummy text of the printing and typesetting industry.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+                .overlay-button
+                   a(class='button product-button', href='#') ENTER SITE
+            img(src='/images/aci/aci-jobs.jpg')
+
+
+
+
+
+
+.full-width.text-center.work
+    #show_more
+        h11 SHOW MORE
+.clear
+
+.row.wrapper.full-width#cap
+    .capabilities.full-width
+        h3 ABOUT ACI AGRIBUSINESS
+
+        .work-bodytext.full-width
+
+            p Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged
+.svg-box.full-width
+ .row.six-capabilities.full-width
+  a(href="../capabilities/#strategy")
+    .small-12.medium-6.large-4.columns.capability-boxes.capability-item.strategy-idle
+        .capabilities-text
+            p 01.
+            h4.capability-heading MISSION
+        .capability-svg.capability-svg-mobile
+          .design
+            .capabilities-text.white
+                p 01.
+                h4.capability-heading MISSION
+
+
+
+  a(href="../capabilities/#design")
+    .small-12.medium-6.large-4.columns.capability-boxes.capability-item.design-idle
+        .capabilities-text
+            p 02.
+            h4.capability-heading VISION
+
+        .capability-svg.capability-svg-mobile
+          .strategy
+            .capabilities-text.white
+                p 02.
+                h4.capability-heading VISION
+
+  a(href="/capabilities/#development")
+    .small-12.medium-6.large-4.columns.capability-boxes.capability-item.develop-idle
+        .capabilities-text
+            p 03.
+            h4.capability-heading VALUES
+
+         .capability-svg.capability-svg-mobile
+           .develop
+             .capabilities-text.white
+                p 03.
+                h4.capability-heading VALUES
+
+.row.wrapper.full-width#cap
+    .clientele.full-width#client
+        h3 OUR FEATURED PRODUCTS
+
+        p Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+ .bck-client
+
+        .client-logos
+             ul
+                .large-block-grid-6.medium-block-grid-3.small-block-grid-2
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0019_dell.png')
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0016_kaspersky.png')
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0017_bitdefender.png')
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0005_Intex.png')
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0014_BAT.png')
+
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0022_who.png')
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0023_mns.png')
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0008_Rahimafrooz.png')
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0002_prothom-alo.png')
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0006_akhoni.png')
+
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0003_startup-weekend.png')
+                    li
+                      img(src='../images/client-logo/Selected-clients-png_0004_Preetom.png')
